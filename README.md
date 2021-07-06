@@ -12,4 +12,4 @@ You should follow this path '3/espartaChallenge/' and then run:
 - yarn start
 - yarn android
 
-The design for this app was created on Figma and can be found here [https://www.figma.com/file/9GSFo3teejhB3lNWBckoa0/EspartaChallenge?node-id=0%3A1]# EspartaChallenge
+The design for this app was created on Figma and can be found here https://www.figma.com/file/9GSFo3teejhB3lNWBckoa0/EspartaChallenge?node-id=0%3A1
